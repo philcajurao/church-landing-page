@@ -1,0 +1,3 @@
+.main::after {
+    content: "Currently only available in desktop viewport"
+}
